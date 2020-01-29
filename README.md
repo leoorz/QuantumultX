@@ -9,7 +9,7 @@ Js_local_WorkingCopy.conf 包含下面两个路径
 - NobyDa/QuantumultX/File
 - NobyDa/Surge/JS
 
-所以，使用前需要在本地的，或 iCloud Drive 的 QuantumultX 目录里新建好上面两个路径的文件夹，然后下载 NobyDa Github 里的 js 等文件，最后上传到对应文件夹内。
+所以，使用前需要在本地，或 iCloud Drive 的 QuantumultX 目录里新建好上面两个路径的文件夹，然后下载 NobyDa Github 里的 js 等文件，最后上传到对应文件夹内。
 
 ## 神机复写 Rewrite.conf
 
